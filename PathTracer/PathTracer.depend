@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1761208274 source:g:\downloads\opengl\pathtracer\main.cpp
+	<iostream>
+	<fstream>
+	"camera.h"
+	"rtweekend.h"
+	"hittable.h"
+	"hittable_list.h"
+	"material.h"
+	"sphere.h"
+
+1761209359 g:\downloads\opengl\pathtracer\vec3.h
+	<cmath>
+	<iostream>
+
+1760762690 g:\downloads\opengl\pathtracer\color.h
+	"interval.h"
+	"vec3.h"
+
+1760675960 g:\downloads\opengl\pathtracer\ray.h
+	"vec3.h"
+
+1761209679 g:\downloads\opengl\pathtracer\camera.h
+	"hittable.h"
+	"material.h"
+	<fstream>
+
+1760849201 g:\downloads\opengl\pathtracer\hittable.h
+	"ray.h"
+	"interval.h"
+
+1760700625 g:\downloads\opengl\pathtracer\interval.h
+	"rtweekend.h"
+
+1761209359 g:\downloads\opengl\pathtracer\rtweekend.h
+	<cmath>
+	<iostream>
+	<limits>
+	<memory>
+	<cstdlib>
+	"interval.h"
+	"vec3.h"
+	"ray.h"
+	"color.h"
+
+1760675960 g:\downloads\opengl\pathtracer\hittable_list.h
+	"hittable.h"
+	<memory>
+	<vector>
+
+1760849201 g:\downloads\opengl\pathtracer\sphere.h
+	"hittable.h"
+	"vec3.h"
+
+1761204975 g:\downloads\opengl\pathtracer\material.h
+	"hittable.h"
+
